@@ -27,8 +27,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 
 
 ## ResourceReferred
-[For Portfolio] github online repositories.</br>
-[For concepts] https://stackoverflow.com/questions/3275164/javascript-quiz </br>
+[**For concepts**](https://stackoverflow.com/questions/3275164/javascript-quiz) </br>
 
 
 ## Github_Links
